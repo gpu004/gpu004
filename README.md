@@ -1,4 +1,4 @@
-Creator of [openchaos](https://github.com/tusharhqq/openchaos). Creator of ropeman. Popular on [Twitter](https://x.com/tusharhq)
+Creator of [openchaos](https://github.com/gpu004/openchaos). Creator of ropeman. Popular on [Twitter](https://x.com/tusharhq)
 
 Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com/@bobo5), or [my site I guess](https://tushar-6666.vercel.app/)
 
@@ -6,16 +6,16 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 ### Products
 
-- **[openchaos](https://github.com/tusharhqq/openchaos)** — Open-source deterministic simulation and property-based testing — exhaustively explore your system in simulation, inject faults, and get a perfect repro of every failure
-- **[rope-man](https://github.com/tusharhqq/rope-man)** — Terminal reimplementation of Armin Ronacher's rope-man game, built with OpenTUI
-- **[dusty](https://github.com/tusharhqq/dusty)** — Market maker simulation with spread and PnL modeling
+- **[openchaos](https://github.com/gpu004/openchaos)** — Open-source deterministic simulation and property-based testing — exhaustively explore your system in simulation, inject faults, and get a perfect repro of every failure
+- **[rope-man](https://github.com/gpu004/rope-man)** — Terminal reimplementation of Armin Ronacher's rope-man game, built with OpenTUI
+- **[dusty](https://github.com/gpu004/dusty)** — Market maker simulation with spread and PnL modeling
 
 ### Everything Else
 
-- **[1millionspheres](https://github.com/tusharhqq/1millionspheres)** — PBR Three.js demo with 1,000,000 unique spheres
-- **[automatic-disco](https://github.com/tusharhqq/automatic-disco)** — Tree-walking interpreter in Go
-- **[config](https://github.com/tusharhqq/config)** — My configuration files and tools
-- **[6666](https://github.com/tusharhqq/6666)** — High-performance OLTP database in OCaml, inspired by TigerBeetle
+- **[1millionspheres](https://github.com/gpu004/1millionspheres)** — PBR Three.js demo with 1,000,000 unique spheres
+- **[automatic-disco](https://github.com/gpu004/automatic-disco)** — Tree-walking interpreter in Go
+- **[config](https://github.com/gpu004/config)** — My configuration files and tools
+- **[6666](https://github.com/gpu004/6666)** — High-performance OLTP database in OCaml, inspired by TigerBeetle
 
 ---
 
@@ -23,22 +23,15 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 #### 🔭 Latest releases I've contributed to
 
-- [tusharhqq/6666](https://github.com/tusharhqq/6666) ([v0.3.0](https://github.com/tusharhqq/6666/releases/tag/v0.3.0), 1 week ago) - database, built by taking inspiration of tigerbeetle
-- [tusharhqq/automatic-disco](https://github.com/tusharhqq/automatic-disco) ([v0.1.1](https://github.com/tusharhqq/automatic-disco/releases/tag/v0.1.1), 1 month ago) - another interpreter in go
-- [tusharhqq/config](https://github.com/tusharhqq/config) ([v0.1.4](https://github.com/tusharhqq/config/releases/tag/v0.1.4), 1 month ago) - My configuration files and tools
-- [tusharhqq/tusharhqq](https://github.com/tusharhqq/tusharhqq) ([v0.1.2](https://github.com/tusharhqq/tusharhqq/releases/tag/v0.1.2), 1 month ago) - 
-- [tusharhqq/rope-man](https://github.com/tusharhqq/rope-man) ([v0.1.6](https://github.com/tusharhqq/rope-man/releases/tag/v0.1.6), 1 month ago) - i tried to build the Armin Ronacher (@mitsuhko) ropeman game in terminal using opentui, just an attempt
+- [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) ([v0.1.0](https://github.com/gpu004/napkin-math-gpu/releases/tag/v0.1.0), 1 week ago) - Techniques and numbers for estimating system's performance from first-principles
+- [gpu004/6666](https://github.com/gpu004/6666) ([v0.3.0](https://github.com/gpu004/6666/releases/tag/v0.3.0), 1 month ago) - database, built by taking inspiration of tigerbeetle
+- [gpu004/automatic-disco](https://github.com/gpu004/automatic-disco) ([v0.1.1](https://github.com/gpu004/automatic-disco/releases/tag/v0.1.1), 2 months ago) - another interpreter in go
+- [gpu004/config](https://github.com/gpu004/config) ([v0.1.4](https://github.com/gpu004/config/releases/tag/v0.1.4), 2 months ago) - My configuration files and tools
+- [gpu004/gpu004](https://github.com/gpu004/gpu004) ([v0.1.2](https://github.com/gpu004/gpu004/releases/tag/v0.1.2), 2 months ago) - 
+- [gpu004/rope-man](https://github.com/gpu004/rope-man) ([v0.1.6](https://github.com/gpu004/rope-man/releases/tag/v0.1.6), 2 months ago) - i tried to build the Armin Ronacher (@mitsuhko) ropeman game in terminal using opentui, just an attempt
 
 #### 🔨 My recent Pull Requests
 
-- [Implement OCaml ledger state machine](https://github.com/tusharhqq/6666/pull/4) on [tusharhqq/6666](https://github.com/tusharhqq/6666) (1 week ago)
-- [Replace ledger state machine with OCaml implementation](https://github.com/tusharhqq/6666/pull/3) on [tusharhqq/6666](https://github.com/tusharhqq/6666) (1 week ago)
-- [Copy pinned TigerBeetle source without ledger state machine](https://github.com/tusharhqq/6666/pull/2) on [tusharhqq/6666](https://github.com/tusharhqq/6666) (1 week ago)
-- [Add jb alias for jj bookmark](https://github.com/tusharhqq/config/pull/8) on [tusharhqq/config](https://github.com/tusharhqq/config) (1 month ago)
-- [Document Neovim config usage in README](https://github.com/tusharhqq/config/pull/7) on [tusharhqq/config](https://github.com/tusharhqq/config) (1 month ago)
-- [fix jrt alias](https://github.com/tusharhqq/config/pull/6) on [tusharhqq/config](https://github.com/tusharhqq/config) (1 month ago)
-- [added socket sfw by default](https://github.com/tusharhqq/config/pull/5) on [tusharhqq/config](https://github.com/tusharhqq/config) (2 months ago)
-- [simplified the gcc setup and removed the unnecessary clang command,](https://github.com/tusharhqq/config/pull/4) on [tusharhqq/config](https://github.com/tusharhqq/config) (2 months ago)
-- [fixed the smartcase search issues in nvim](https://github.com/tusharhqq/config/pull/3) on [tusharhqq/config](https://github.com/tusharhqq/config) (2 months ago)
-- [fix(python): shallow-copy OSAccess environ to prevent host dict aliasing](https://github.com/tusharhqq/monty-local/pull/1) on [tusharhqq/monty-local](https://github.com/tusharhqq/monty-local) (2 months ago)
-- [Fix async await exception propagation](https://github.com/pydantic/monty/pull/386) on [pydantic/monty](https://github.com/pydantic/monty) (3 months ago)
+- [Implement OCaml ledger state machine](https://github.com/gpu004/6666/pull/4) on [gpu004/6666](https://github.com/gpu004/6666) (1 month ago)
+- [Replace ledger state machine with OCaml implementation](https://github.com/gpu004/6666/pull/3) on [gpu004/6666](https://github.com/gpu004/6666) (1 month ago)
+- [Copy pinned TigerBeetle source without ledger state machine](https://github.com/gpu004/6666/pull/2) on [gpu004/6666](https://github.com/gpu004/6666) (1 month ago)
