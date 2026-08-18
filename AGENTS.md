@@ -11,7 +11,7 @@
 
 ## Learned Workspace Facts
 
-- `tusharhqq` is the GitHub profile README repo; it uses jj with Git colocation and the user’s jj config sets `trunk()` to `main@origin`.
+- `gpu004` is the GitHub profile README repo; it uses jj with Git colocation and the user’s jj config sets `trunk()` to `main@origin`.
 - `.github/workflows/readme-scribe.yml` runs markscribe (`README.md.tpl` → `README.md`) on `main` push, hourly cron, and `workflow_dispatch`; it opens squash-merge PRs on `readme-scribe/update`.
 - `PERSONAL_GITHUB_TOKEN` is required for markscribe GitHub API access; `GITHUB_TOKEN` is used for PR creation and auto-merge.
 - GitHub `main` is branch-protected; direct `jj git push --bookmark main` is rejected without a PR.
