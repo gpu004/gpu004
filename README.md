@@ -27,8 +27,8 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 - [gpu004/6666](https://github.com/gpu004/6666) ([v0.3.0](https://github.com/gpu004/6666/releases/tag/v0.3.0), 1 month ago) - database, built by taking inspiration of tigerbeetle
 - [gpu004/automatic-disco](https://github.com/gpu004/automatic-disco) ([v0.1.1](https://github.com/gpu004/automatic-disco/releases/tag/v0.1.1), 2 months ago) - another interpreter in go
 - [gpu004/config](https://github.com/gpu004/config) ([v0.1.4](https://github.com/gpu004/config/releases/tag/v0.1.4), 2 months ago) - My configuration files and tools
-- [gpu004/gpu004](https://github.com/gpu004/gpu004) ([v0.1.2](https://github.com/gpu004/gpu004/releases/tag/v0.1.2), 2 months ago) - 
-- [gpu004/rope-man](https://github.com/gpu004/rope-man) ([v0.1.6](https://github.com/gpu004/rope-man/releases/tag/v0.1.6), 2 months ago) - i tried to build the Armin Ronacher (@mitsuhko) ropeman game in terminal using opentui, just an attempt
+- [gpu004/gpu004](https://github.com/gpu004/gpu004) ([v0.1.2](https://github.com/gpu004/gpu004/releases/tag/v0.1.2), 3 months ago) - 
+- [gpu004/rope-man](https://github.com/gpu004/rope-man) ([v0.1.6](https://github.com/gpu004/rope-man/releases/tag/v0.1.6), 3 months ago) - i tried to build the Armin Ronacher (@mitsuhko) ropeman game in terminal using opentui, just an attempt
 
 #### 🔨 My recent Pull Requests
 
