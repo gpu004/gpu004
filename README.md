@@ -32,9 +32,11 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 #### 🔨 My recent Pull Requests
 
-- [Make course documentation Docker-only across platforms](https://github.com/gpu004/advance-database/pull/3) on [gpu004/advance-database](https://github.com/gpu004/advance-database) (today)
-- [Add course materials and simple database examples](https://github.com/gpu004/advance-database/pull/2) on [gpu004/advance-database](https://github.com/gpu004/advance-database) (today)
-- [Validate Linux-only database workflows](https://github.com/gpu004/advance-database/pull/1) on [gpu004/advance-database](https://github.com/gpu004/advance-database) (1 day ago)
+- [Normalize AGENTS.md filename casing](https://github.com/gpu004/advance-database/pull/5) on [gpu004/advance-database](https://github.com/gpu004/advance-database) (today)
+- [Simplify Docker course documentation](https://github.com/gpu004/advance-database/pull/4) on [gpu004/advance-database](https://github.com/gpu004/advance-database) (today)
+- [Make course documentation Docker-only across platforms](https://github.com/gpu004/advance-database/pull/3) on [gpu004/advance-database](https://github.com/gpu004/advance-database) (1 day ago)
+- [Add course materials and simple database examples](https://github.com/gpu004/advance-database/pull/2) on [gpu004/advance-database](https://github.com/gpu004/advance-database) (1 day ago)
+- [Validate Linux-only database workflows](https://github.com/gpu004/advance-database/pull/1) on [gpu004/advance-database](https://github.com/gpu004/advance-database) (2 days ago)
 - [Implement OCaml ledger state machine](https://github.com/gpu004/6666/pull/4) on [gpu004/6666](https://github.com/gpu004/6666) (1 month ago)
 - [Replace ledger state machine with OCaml implementation](https://github.com/gpu004/6666/pull/3) on [gpu004/6666](https://github.com/gpu004/6666) (1 month ago)
 - [Copy pinned TigerBeetle source without ledger state machine](https://github.com/gpu004/6666/pull/2) on [gpu004/6666](https://github.com/gpu004/6666) (1 month ago)
