@@ -32,6 +32,8 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 #### 🔨 My recent Pull Requests
 
+- [Add Oxlint and Oxfmt for linting and formatting](https://github.com/gpu004/turbo/pull/2) on [gpu004/turbo](https://github.com/gpu004/turbo) (today)
+- [Add Cloudflare R2 distributed queue](https://github.com/gpu004/turbo/pull/1) on [gpu004/turbo](https://github.com/gpu004/turbo) (today)
 - [Normalize AGENTS.md filename casing](https://github.com/gpu004/advance-database/pull/5) on [gpu004/advance-database](https://github.com/gpu004/advance-database) (today)
 - [Simplify Docker course documentation](https://github.com/gpu004/advance-database/pull/4) on [gpu004/advance-database](https://github.com/gpu004/advance-database) (today)
 - [Make course documentation Docker-only across platforms](https://github.com/gpu004/advance-database/pull/3) on [gpu004/advance-database](https://github.com/gpu004/advance-database) (1 day ago)
