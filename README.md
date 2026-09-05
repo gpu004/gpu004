@@ -32,6 +32,9 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 #### 🔨 My recent Pull Requests
 
+- [Harden Gemini demo flow and upgrade to TypeScript 7](https://github.com/gpu004/enterprise-sales-copilot/pull/4) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (today)
+- [Add property tests and fix transcript/question parsing bugs](https://github.com/gpu004/enterprise-sales-copilot/pull/3) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (today)
+- [Migrate frontend to Next.js 16 with React Compiler](https://github.com/gpu004/enterprise-sales-copilot/pull/2) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (today)
 - [Wire Modal to the earningspulse secret](https://github.com/omkargadute/EarningsPulse/pull/6) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (today)
 - [Load Modal credentials from a named secret](https://github.com/omkargadute/EarningsPulse/pull/5) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (today)
 - [Require Prism for hackathon and harden sync fallback](https://github.com/omkargadute/EarningsPulse/pull/4) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (today)
@@ -44,6 +47,3 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 - [Fix calendar dates shifting a day west of UTC](https://github.com/gpu004/EarningsPulse/pull/16) on [gpu004/EarningsPulse](https://github.com/gpu004/EarningsPulse) (1 day ago)
 - [Sync fork: add deptry to backend CI](https://github.com/Ankush523/EarningsPulse/pull/25) on [Ankush523/EarningsPulse](https://github.com/Ankush523/EarningsPulse) (1 day ago)
 - [Add deptry to backend CI](https://github.com/gpu004/EarningsPulse/pull/15) on [gpu004/EarningsPulse](https://github.com/gpu004/EarningsPulse) (1 day ago)
-- [Sync origin UI redesign](https://github.com/gpu004/earningpulse-cloudflare/pull/2) on [gpu004/earningpulse-cloudflare](https://github.com/gpu004/earningpulse-cloudflare) (1 day ago)
-- [Sync fork: redesign UI as a pre-earnings research note](https://github.com/Ankush523/EarningsPulse/pull/24) on [Ankush523/EarningsPulse](https://github.com/Ankush523/EarningsPulse) (1 day ago)
-- [Redesign the UI as a pre-earnings research note](https://github.com/gpu004/EarningsPulse/pull/14) on [gpu004/EarningsPulse](https://github.com/gpu004/EarningsPulse) (1 day ago)
