@@ -32,6 +32,12 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 #### 🔨 My recent Pull Requests
 
+- [Wire Modal to the earningspulse secret](https://github.com/omkargadute/EarningsPulse/pull/6) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (today)
+- [Load Modal credentials from a named secret](https://github.com/omkargadute/EarningsPulse/pull/5) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (today)
+- [Require Prism for hackathon and harden sync fallback](https://github.com/omkargadute/EarningsPulse/pull/4) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (today)
+- [Simplify provider fallbacks and unblock async data services](https://github.com/omkargadute/EarningsPulse/pull/3) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (today)
+- [Fix SSE reader isolation and tool trace lifecycle](https://github.com/omkargadute/EarningsPulse/pull/2) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (today)
+- [Deploy backend on Modal](https://github.com/omkargadute/EarningsPulse/pull/1) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (today)
 - [Unslop project documentation](https://github.com/Ankush523/EarningsPulse/pull/27) on [Ankush523/EarningsPulse](https://github.com/Ankush523/EarningsPulse) (1 day ago)
 - [Unslop project documentation](https://github.com/gpu004/EarningsPulse/pull/17) on [gpu004/EarningsPulse](https://github.com/gpu004/EarningsPulse) (1 day ago)
 - [Sync fork: fix calendar dates shifting a day west of UTC](https://github.com/Ankush523/EarningsPulse/pull/26) on [Ankush523/EarningsPulse](https://github.com/Ankush523/EarningsPulse) (1 day ago)
@@ -41,9 +47,3 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 - [Sync origin UI redesign](https://github.com/gpu004/earningpulse-cloudflare/pull/2) on [gpu004/earningpulse-cloudflare](https://github.com/gpu004/earningpulse-cloudflare) (1 day ago)
 - [Sync fork: redesign UI as a pre-earnings research note](https://github.com/Ankush523/EarningsPulse/pull/24) on [Ankush523/EarningsPulse](https://github.com/Ankush523/EarningsPulse) (1 day ago)
 - [Redesign the UI as a pre-earnings research note](https://github.com/gpu004/EarningsPulse/pull/14) on [gpu004/EarningsPulse](https://github.com/gpu004/EarningsPulse) (1 day ago)
-- [Sync fork: pin Vercel Node to 24.x](https://github.com/Ankush523/EarningsPulse/pull/23) on [Ankush523/EarningsPulse](https://github.com/Ankush523/EarningsPulse) (1 day ago)
-- [Pin Vercel and CI to Node 24.x](https://github.com/gpu004/EarningsPulse/pull/13) on [gpu004/EarningsPulse](https://github.com/gpu004/EarningsPulse) (1 day ago)
-- [Pin Vercel Node to 20.x so it does not auto-upgrade majors](https://github.com/gpu004/EarningsPulse/pull/12) on [gpu004/EarningsPulse](https://github.com/gpu004/EarningsPulse) (1 day ago)
-- [Sync origin frontend cleanups, skip Vercel](https://github.com/gpu004/earningpulse-cloudflare/pull/1) on [gpu004/earningpulse-cloudflare](https://github.com/gpu004/earningpulse-cloudflare) (1 day ago)
-- [Sync fork: Knip, Vercel deploys, and e2e uv runner](https://github.com/Ankush523/EarningsPulse/pull/22) on [Ankush523/EarningsPulse](https://github.com/Ankush523/EarningsPulse) (1 day ago)
-- [Install with Bun 1.4 on Vercel so the lockfile parses](https://github.com/gpu004/EarningsPulse/pull/11) on [gpu004/EarningsPulse](https://github.com/gpu004/EarningsPulse) (1 day ago)
