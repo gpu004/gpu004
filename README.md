@@ -32,6 +32,10 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 #### 🔨 My recent Pull Requests
 
+- [Pin Vercel builds to Bun 1.4.2](https://github.com/gpu004/enterprise-sales-copilot/pull/8) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (today)
+- [Use plain bun install on Vercel](https://github.com/gpu004/enterprise-sales-copilot/pull/7) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (today)
+- [Fix frontend Vercel output directory for Next.js](https://github.com/gpu004/enterprise-sales-copilot/pull/6) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (today)
+- [Pin Vercel FastAPI entrypoint to backend.main:app](https://github.com/gpu004/enterprise-sales-copilot/pull/5) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (today)
 - [Harden Gemini demo flow and upgrade to TypeScript 7](https://github.com/gpu004/enterprise-sales-copilot/pull/4) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (1 day ago)
 - [Add property tests and fix transcript/question parsing bugs](https://github.com/gpu004/enterprise-sales-copilot/pull/3) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (1 day ago)
 - [Migrate frontend to Next.js 16 with React Compiler](https://github.com/gpu004/enterprise-sales-copilot/pull/2) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (1 day ago)
@@ -43,7 +47,3 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 - [Deploy backend on Modal](https://github.com/omkargadute/EarningsPulse/pull/1) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (1 day ago)
 - [Unslop project documentation](https://github.com/Ankush523/EarningsPulse/pull/27) on [Ankush523/EarningsPulse](https://github.com/Ankush523/EarningsPulse) (2 days ago)
 - [Unslop project documentation](https://github.com/gpu004/EarningsPulse/pull/17) on [gpu004/EarningsPulse](https://github.com/gpu004/EarningsPulse) (2 days ago)
-- [Sync fork: fix calendar dates shifting a day west of UTC](https://github.com/Ankush523/EarningsPulse/pull/26) on [Ankush523/EarningsPulse](https://github.com/Ankush523/EarningsPulse) (2 days ago)
-- [Fix calendar dates shifting a day west of UTC](https://github.com/gpu004/EarningsPulse/pull/16) on [gpu004/EarningsPulse](https://github.com/gpu004/EarningsPulse) (2 days ago)
-- [Sync fork: add deptry to backend CI](https://github.com/Ankush523/EarningsPulse/pull/25) on [Ankush523/EarningsPulse](https://github.com/Ankush523/EarningsPulse) (2 days ago)
-- [Add deptry to backend CI](https://github.com/gpu004/EarningsPulse/pull/15) on [gpu004/EarningsPulse](https://github.com/gpu004/EarningsPulse) (2 days ago)
