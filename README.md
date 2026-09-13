@@ -32,10 +32,10 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 #### 🔨 My recent Pull Requests
 
-- [Pin Vercel builds to Bun 1.4.2](https://github.com/gpu004/enterprise-sales-copilot/pull/8) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (6 days ago)
-- [Use plain bun install on Vercel](https://github.com/gpu004/enterprise-sales-copilot/pull/7) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (6 days ago)
-- [Fix frontend Vercel output directory for Next.js](https://github.com/gpu004/enterprise-sales-copilot/pull/6) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (6 days ago)
-- [Pin Vercel FastAPI entrypoint to backend.main:app](https://github.com/gpu004/enterprise-sales-copilot/pull/5) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (6 days ago)
+- [Pin Vercel builds to Bun 1.4.2](https://github.com/gpu004/enterprise-sales-copilot/pull/8) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (1 week ago)
+- [Use plain bun install on Vercel](https://github.com/gpu004/enterprise-sales-copilot/pull/7) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (1 week ago)
+- [Fix frontend Vercel output directory for Next.js](https://github.com/gpu004/enterprise-sales-copilot/pull/6) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (1 week ago)
+- [Pin Vercel FastAPI entrypoint to backend.main:app](https://github.com/gpu004/enterprise-sales-copilot/pull/5) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (1 week ago)
 - [Harden Gemini demo flow and upgrade to TypeScript 7](https://github.com/gpu004/enterprise-sales-copilot/pull/4) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (1 week ago)
 - [Add property tests and fix transcript/question parsing bugs](https://github.com/gpu004/enterprise-sales-copilot/pull/3) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (1 week ago)
 - [Migrate frontend to Next.js 16 with React Compiler](https://github.com/gpu004/enterprise-sales-copilot/pull/2) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (1 week ago)
