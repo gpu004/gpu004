@@ -25,8 +25,8 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 - [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) ([v0.1.0](https://github.com/gpu004/napkin-math-gpu/releases/tag/v0.1.0), 1 month ago) - Techniques and numbers for estimating system's performance from first-principles
 - [gpu004/6666](https://github.com/gpu004/6666) ([v0.3.0](https://github.com/gpu004/6666/releases/tag/v0.3.0), 2 months ago) - database, built by taking inspiration of tigerbeetle
-- [gpu004/automatic-disco](https://github.com/gpu004/automatic-disco) ([v0.1.1](https://github.com/gpu004/automatic-disco/releases/tag/v0.1.1), 3 months ago) - another interpreter in go
-- [gpu004/config](https://github.com/gpu004/config) ([v0.1.4](https://github.com/gpu004/config/releases/tag/v0.1.4), 3 months ago) - My configuration files and tools
+- [gpu004/automatic-disco](https://github.com/gpu004/automatic-disco) ([v0.1.1](https://github.com/gpu004/automatic-disco/releases/tag/v0.1.1), 4 months ago) - another interpreter in go
+- [gpu004/config](https://github.com/gpu004/config) ([v0.1.4](https://github.com/gpu004/config/releases/tag/v0.1.4), 4 months ago) - My configuration files and tools
 - [gpu004/gpu004](https://github.com/gpu004/gpu004) ([v0.1.2](https://github.com/gpu004/gpu004/releases/tag/v0.1.2), 4 months ago) - 
 - [gpu004/rope-man](https://github.com/gpu004/rope-man) ([v0.1.6](https://github.com/gpu004/rope-man/releases/tag/v0.1.6), 4 months ago) - i tried to build the Armin Ronacher (@mitsuhko) ropeman game in terminal using opentui, just an attempt
 
@@ -36,14 +36,14 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 - [Use plain bun install on Vercel](https://github.com/gpu004/enterprise-sales-copilot/pull/7) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (2 weeks ago)
 - [Fix frontend Vercel output directory for Next.js](https://github.com/gpu004/enterprise-sales-copilot/pull/6) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (2 weeks ago)
 - [Pin Vercel FastAPI entrypoint to backend.main:app](https://github.com/gpu004/enterprise-sales-copilot/pull/5) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (2 weeks ago)
-- [Harden Gemini demo flow and upgrade to TypeScript 7](https://github.com/gpu004/enterprise-sales-copilot/pull/4) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (2 weeks ago)
-- [Add property tests and fix transcript/question parsing bugs](https://github.com/gpu004/enterprise-sales-copilot/pull/3) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (2 weeks ago)
-- [Migrate frontend to Next.js 16 with React Compiler](https://github.com/gpu004/enterprise-sales-copilot/pull/2) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (2 weeks ago)
-- [Wire Modal to the earningspulse secret](https://github.com/omkargadute/EarningsPulse/pull/6) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (2 weeks ago)
-- [Load Modal credentials from a named secret](https://github.com/omkargadute/EarningsPulse/pull/5) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (2 weeks ago)
-- [Require Prism for hackathon and harden sync fallback](https://github.com/omkargadute/EarningsPulse/pull/4) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (2 weeks ago)
-- [Simplify provider fallbacks and unblock async data services](https://github.com/omkargadute/EarningsPulse/pull/3) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (2 weeks ago)
-- [Fix SSE reader isolation and tool trace lifecycle](https://github.com/omkargadute/EarningsPulse/pull/2) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (2 weeks ago)
-- [Deploy backend on Modal](https://github.com/omkargadute/EarningsPulse/pull/1) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (2 weeks ago)
+- [Harden Gemini demo flow and upgrade to TypeScript 7](https://github.com/gpu004/enterprise-sales-copilot/pull/4) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (3 weeks ago)
+- [Add property tests and fix transcript/question parsing bugs](https://github.com/gpu004/enterprise-sales-copilot/pull/3) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (3 weeks ago)
+- [Migrate frontend to Next.js 16 with React Compiler](https://github.com/gpu004/enterprise-sales-copilot/pull/2) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (3 weeks ago)
+- [Wire Modal to the earningspulse secret](https://github.com/omkargadute/EarningsPulse/pull/6) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (3 weeks ago)
+- [Load Modal credentials from a named secret](https://github.com/omkargadute/EarningsPulse/pull/5) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (3 weeks ago)
+- [Require Prism for hackathon and harden sync fallback](https://github.com/omkargadute/EarningsPulse/pull/4) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (3 weeks ago)
+- [Simplify provider fallbacks and unblock async data services](https://github.com/omkargadute/EarningsPulse/pull/3) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (3 weeks ago)
+- [Fix SSE reader isolation and tool trace lifecycle](https://github.com/omkargadute/EarningsPulse/pull/2) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (3 weeks ago)
+- [Deploy backend on Modal](https://github.com/omkargadute/EarningsPulse/pull/1) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (3 weeks ago)
 - [Unslop project documentation](https://github.com/Ankush523/EarningsPulse/pull/27) on [Ankush523/EarningsPulse](https://github.com/Ankush523/EarningsPulse) (3 weeks ago)
 - [Unslop project documentation](https://github.com/gpu004/EarningsPulse/pull/17) on [gpu004/EarningsPulse](https://github.com/gpu004/EarningsPulse) (3 weeks ago)
