@@ -46,4 +46,3 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 - [Fix SSE reader isolation and tool trace lifecycle](https://github.com/omkargadute/EarningsPulse/pull/2) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (1 month ago)
 - [Deploy backend on Modal](https://github.com/omkargadute/EarningsPulse/pull/1) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (1 month ago)
 - [Unslop project documentation](https://github.com/Ankush523/EarningsPulse/pull/27) on [Ankush523/EarningsPulse](https://github.com/Ankush523/EarningsPulse) (1 month ago)
-- [Unslop project documentation](https://github.com/gpu004/EarningsPulse/pull/17) on [gpu004/EarningsPulse](https://github.com/gpu004/EarningsPulse) (1 month ago)
