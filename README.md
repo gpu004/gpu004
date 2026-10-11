@@ -24,7 +24,7 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 #### 🔭 Latest releases I've contributed to
 
 - [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) ([v0.1.0](https://github.com/gpu004/napkin-math-gpu/releases/tag/v0.1.0), 2 months ago) - Techniques and numbers for estimating system's performance from first-principles
-- [gpu004/6666](https://github.com/gpu004/6666) ([v0.3.0](https://github.com/gpu004/6666/releases/tag/v0.3.0), 2 months ago) - database, built by taking inspiration of tigerbeetle
+- [gpu004/6666](https://github.com/gpu004/6666) ([v0.3.0](https://github.com/gpu004/6666/releases/tag/v0.3.0), 3 months ago) - database, built by taking inspiration of tigerbeetle
 - [gpu004/automatic-disco](https://github.com/gpu004/automatic-disco) ([v0.1.1](https://github.com/gpu004/automatic-disco/releases/tag/v0.1.1), 4 months ago) - another interpreter in go
 - [gpu004/config](https://github.com/gpu004/config) ([v0.1.4](https://github.com/gpu004/config/releases/tag/v0.1.4), 4 months ago) - My configuration files and tools
 - [gpu004/gpu004](https://github.com/gpu004/gpu004) ([v0.1.2](https://github.com/gpu004/gpu004/releases/tag/v0.1.2), 4 months ago) - 
