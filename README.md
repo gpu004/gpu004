@@ -23,8 +23,8 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 #### 🔭 Latest releases I've contributed to
 
-- [gpu004/turbo](https://github.com/gpu004/turbo) ([v0.1.0](https://github.com/gpu004/turbo/releases/tag/v0.1.0), 5 days ago) - creating queue service on top of r2, inspired by the turbopuffer queue service new implementation
-- [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) ([v0.4.0](https://github.com/gpu004/napkin-math-gpu/releases/tag/v0.4.0), 5 days ago) - Techniques and numbers for estimating system's performance from first-principles
+- [gpu004/turbo](https://github.com/gpu004/turbo) ([v0.1.0](https://github.com/gpu004/turbo/releases/tag/v0.1.0), 6 days ago) - creating queue service on top of r2, inspired by the turbopuffer queue service new implementation
+- [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) ([v0.4.0](https://github.com/gpu004/napkin-math-gpu/releases/tag/v0.4.0), 6 days ago) - Techniques and numbers for estimating system's performance from first-principles
 - [gpu004/6666](https://github.com/gpu004/6666) ([v0.3.0](https://github.com/gpu004/6666/releases/tag/v0.3.0), 3 months ago) - database, built by taking inspiration of tigerbeetle
 - [gpu004/automatic-disco](https://github.com/gpu004/automatic-disco) ([v0.1.1](https://github.com/gpu004/automatic-disco/releases/tag/v0.1.1), 4 months ago) - another interpreter in go
 - [gpu004/config](https://github.com/gpu004/config) ([v0.1.4](https://github.com/gpu004/config/releases/tag/v0.1.4), 4 months ago) - My configuration files and tools
@@ -33,7 +33,7 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 #### 🔨 My recent Pull Requests
 
-- [fix(frontend): derive the canonical site URL from the Vercel build env instead of defaulting to localhost](https://github.com/gpu004/EarningsPulse/pull/18) on [gpu004/EarningsPulse](https://github.com/gpu004/EarningsPulse) (1 day ago)
+- [fix(frontend): derive the canonical site URL from the Vercel build env instead of defaulting to localhost](https://github.com/gpu004/EarningsPulse/pull/18) on [gpu004/EarningsPulse](https://github.com/gpu004/EarningsPulse) (2 days ago)
 - [Pin Vercel builds to Bun 1.4.2](https://github.com/gpu004/enterprise-sales-copilot/pull/8) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (1 month ago)
 - [Use plain bun install on Vercel](https://github.com/gpu004/enterprise-sales-copilot/pull/7) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (1 month ago)
 - [Fix frontend Vercel output directory for Next.js](https://github.com/gpu004/enterprise-sales-copilot/pull/6) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (1 month ago)
