@@ -33,6 +33,7 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 #### 🔨 My recent Pull Requests
 
+- [Fix partitioned-mode flush deadlock and follow-on bugs (table refcount/manifest, read path, fan-out index, Flatten)](https://github.com/preethamBojja/badger/pull/1) on [preethamBojja/badger](https://github.com/preethamBojja/badger) (today)
 - [fix(frontend): derive the canonical site URL from the Vercel build env instead of defaulting to localhost](https://github.com/gpu004/EarningsPulse/pull/18) on [gpu004/EarningsPulse](https://github.com/gpu004/EarningsPulse) (1 week ago)
 - [Pin Vercel builds to Bun 1.4.2](https://github.com/gpu004/enterprise-sales-copilot/pull/8) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (1 month ago)
 - [Use plain bun install on Vercel](https://github.com/gpu004/enterprise-sales-copilot/pull/7) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (1 month ago)
@@ -46,4 +47,3 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 - [Require Prism for hackathon and harden sync fallback](https://github.com/omkargadute/EarningsPulse/pull/4) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (1 month ago)
 - [Simplify provider fallbacks and unblock async data services](https://github.com/omkargadute/EarningsPulse/pull/3) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (1 month ago)
 - [Fix SSE reader isolation and tool trace lifecycle](https://github.com/omkargadute/EarningsPulse/pull/2) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (1 month ago)
-- [Deploy backend on Modal](https://github.com/omkargadute/EarningsPulse/pull/1) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (1 month ago)
