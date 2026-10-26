@@ -46,4 +46,3 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 - [Load Modal credentials from a named secret](https://github.com/omkargadute/EarningsPulse/pull/5) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (1 month ago)
 - [Require Prism for hackathon and harden sync fallback](https://github.com/omkargadute/EarningsPulse/pull/4) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (1 month ago)
 - [Simplify provider fallbacks and unblock async data services](https://github.com/omkargadute/EarningsPulse/pull/3) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (1 month ago)
-- [Fix SSE reader isolation and tool trace lifecycle](https://github.com/omkargadute/EarningsPulse/pull/2) on [omkargadute/EarningsPulse](https://github.com/omkargadute/EarningsPulse) (1 month ago)
