@@ -33,7 +33,7 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 #### 🔨 My recent Pull Requests
 
-- [Fix partitioned-mode flush deadlock and follow-on bugs (table refcount/manifest, read path, fan-out index, Flatten)](https://github.com/preethamBojja/badger/pull/1) on [preethamBojja/badger](https://github.com/preethamBojja/badger) (3 days ago)
+- [Fix partitioned-mode flush deadlock and follow-on bugs (table refcount/manifest, read path, fan-out index, Flatten)](https://github.com/preethamBojja/badger/pull/1) on [preethamBojja/badger](https://github.com/preethamBojja/badger) (4 days ago)
 - [fix(frontend): derive the canonical site URL from the Vercel build env instead of defaulting to localhost](https://github.com/gpu004/EarningsPulse/pull/18) on [gpu004/EarningsPulse](https://github.com/gpu004/EarningsPulse) (1 week ago)
 - [Pin Vercel builds to Bun 1.4.2](https://github.com/gpu004/enterprise-sales-copilot/pull/8) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (1 month ago)
 - [Use plain bun install on Vercel](https://github.com/gpu004/enterprise-sales-copilot/pull/7) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (1 month ago)
