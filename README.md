@@ -23,8 +23,8 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 #### 🔭 Latest releases I've contributed to
 
-- [gpu004/turbo](https://github.com/gpu004/turbo) ([v0.1.0](https://github.com/gpu004/turbo/releases/tag/v0.1.0), 3 weeks ago) - creating queue service on top of r2, inspired by the turbopuffer queue service new implementation
-- [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) ([v0.4.0](https://github.com/gpu004/napkin-math-gpu/releases/tag/v0.4.0), 3 weeks ago) - Techniques and numbers for estimating system's performance from first-principles
+- [gpu004/turbo](https://github.com/gpu004/turbo) ([v0.1.0](https://github.com/gpu004/turbo/releases/tag/v0.1.0), 4 weeks ago) - creating queue service on top of r2, inspired by the turbopuffer queue service new implementation
+- [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) ([v0.4.0](https://github.com/gpu004/napkin-math-gpu/releases/tag/v0.4.0), 4 weeks ago) - Techniques and numbers for estimating system's performance from first-principles
 - [gpu004/6666](https://github.com/gpu004/6666) ([v0.3.0](https://github.com/gpu004/6666/releases/tag/v0.3.0), 3 months ago) - database, built by taking inspiration of tigerbeetle
 - [gpu004/automatic-disco](https://github.com/gpu004/automatic-disco) ([v0.1.1](https://github.com/gpu004/automatic-disco/releases/tag/v0.1.1), 5 months ago) - another interpreter in go
 - [gpu004/config](https://github.com/gpu004/config) ([v0.1.4](https://github.com/gpu004/config/releases/tag/v0.1.4), 5 months ago) - My configuration files and tools
@@ -33,16 +33,16 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 #### 🔨 My recent Pull Requests
 
-- [feat(bench): Launch NCCL Tests across two Modal machines over RDMA](https://github.com/gpu004/napkin-math-gpu/pull/43) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (2 days ago)
-- [refactor(crates): Remove comments and encode what they explained in code](https://github.com/gpu004/napkin-math-gpu/pull/42) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (3 days ago)
-- [test(napkin): Check arithmetic identities with Hegel](https://github.com/gpu004/napkin-math-gpu/pull/41) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (3 days ago)
-- [feat(price): Add AWS, GCP, and Azure records with commitment terms](https://github.com/gpu004/napkin-math-gpu/pull/40) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (3 days ago)
-- [chore(skills): Vendor pstack no-comments skill](https://github.com/gpu004/napkin-math-gpu/pull/39) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (3 days ago)
-- [feat(profiles): Add a datasheet RDMA link between machines for H100](https://github.com/gpu004/napkin-math-gpu/pull/38) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (3 days ago)
-- [feat(table): Memorization table, cost per TB, and spread between machines](https://github.com/gpu004/napkin-math-gpu/pull/37) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (3 days ago)
-- [feat(table): Define copy latency by Simon's rule and generate break-even sizes](https://github.com/gpu004/napkin-math-gpu/pull/36) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (3 days ago)
-- [docs(readme): Derive cold start from storage before PCIe](https://github.com/gpu004/napkin-math-gpu/pull/35) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (3 days ago)
-- [fix(bench): Allocate the H2D latency destination outside the timed loop](https://github.com/gpu004/napkin-math-gpu/pull/34) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (3 days ago)
+- [feat(bench): Launch NCCL Tests across two Modal machines over RDMA](https://github.com/gpu004/napkin-math-gpu/pull/43) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (3 days ago)
+- [refactor(crates): Remove comments and encode what they explained in code](https://github.com/gpu004/napkin-math-gpu/pull/42) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (4 days ago)
+- [test(napkin): Check arithmetic identities with Hegel](https://github.com/gpu004/napkin-math-gpu/pull/41) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (4 days ago)
+- [feat(price): Add AWS, GCP, and Azure records with commitment terms](https://github.com/gpu004/napkin-math-gpu/pull/40) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (4 days ago)
+- [chore(skills): Vendor pstack no-comments skill](https://github.com/gpu004/napkin-math-gpu/pull/39) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (4 days ago)
+- [feat(profiles): Add a datasheet RDMA link between machines for H100](https://github.com/gpu004/napkin-math-gpu/pull/38) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (4 days ago)
+- [feat(table): Memorization table, cost per TB, and spread between machines](https://github.com/gpu004/napkin-math-gpu/pull/37) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (4 days ago)
+- [feat(table): Define copy latency by Simon's rule and generate break-even sizes](https://github.com/gpu004/napkin-math-gpu/pull/36) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (4 days ago)
+- [docs(readme): Derive cold start from storage before PCIe](https://github.com/gpu004/napkin-math-gpu/pull/35) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (4 days ago)
+- [fix(bench): Allocate the H2D latency destination outside the timed loop](https://github.com/gpu004/napkin-math-gpu/pull/34) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (4 days ago)
 - [Fix partitioned-mode flush deadlock and follow-on bugs (table refcount/manifest, read path, fan-out index, Flatten)](https://github.com/preethamBojja/badger/pull/1) on [preethamBojja/badger](https://github.com/preethamBojja/badger) (2 weeks ago)
 - [fix(frontend): derive the canonical site URL from the Vercel build env instead of defaulting to localhost](https://github.com/gpu004/EarningsPulse/pull/18) on [gpu004/EarningsPulse](https://github.com/gpu004/EarningsPulse) (3 weeks ago)
 - [Pin Vercel builds to Bun 1.4.2](https://github.com/gpu004/enterprise-sales-copilot/pull/8) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (2 months ago)
