@@ -33,6 +33,8 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 #### 🔨 My recent Pull Requests
 
+- [Journal allocation intent and recover interrupted experiments](https://github.com/gpu004/benchpress/pull/4) on [gpu004/benchpress](https://github.com/gpu004/benchpress) (today)
+- [Block experiment restarts until saved cleanup warnings are resolved](https://github.com/gpu004/benchpress/pull/3) on [gpu004/benchpress](https://github.com/gpu004/benchpress) (today)
 - [feat(bench): Launch NCCL Tests across two Modal machines over RDMA](https://github.com/gpu004/napkin-math-gpu/pull/43) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (6 days ago)
 - [refactor(crates): Remove comments and encode what they explained in code](https://github.com/gpu004/napkin-math-gpu/pull/42) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (1 week ago)
 - [test(napkin): Check arithmetic identities with Hegel](https://github.com/gpu004/napkin-math-gpu/pull/41) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (1 week ago)
@@ -45,4 +47,3 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 - [fix(bench): Allocate the H2D latency destination outside the timed loop](https://github.com/gpu004/napkin-math-gpu/pull/34) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (1 week ago)
 - [Fix partitioned-mode flush deadlock and follow-on bugs (table refcount/manifest, read path, fan-out index, Flatten)](https://github.com/preethamBojja/badger/pull/1) on [preethamBojja/badger](https://github.com/preethamBojja/badger) (2 weeks ago)
 - [fix(frontend): derive the canonical site URL from the Vercel build env instead of defaulting to localhost](https://github.com/gpu004/EarningsPulse/pull/18) on [gpu004/EarningsPulse](https://github.com/gpu004/EarningsPulse) (3 weeks ago)
-- [Pin Vercel builds to Bun 1.4.2](https://github.com/gpu004/enterprise-sales-copilot/pull/8) on [gpu004/enterprise-sales-copilot](https://github.com/gpu004/enterprise-sales-copilot) (2 months ago)
