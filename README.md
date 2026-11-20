@@ -23,6 +23,7 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 #### 🔭 Latest releases I've contributed to
 
+- [hegeldev/hegel](https://github.com/hegeldev/hegel) ([frontends/go/v0.10.1](https://github.com/hegeldev/hegel/releases/tag/frontends/go/v0.10.1), today) - 
 - [gpu004/turbo](https://github.com/gpu004/turbo) ([v0.1.0](https://github.com/gpu004/turbo/releases/tag/v0.1.0), 1 month ago) - creating queue service on top of r2, inspired by the turbopuffer queue service new implementation
 - [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) ([v0.4.0](https://github.com/gpu004/napkin-math-gpu/releases/tag/v0.4.0), 1 month ago) - Techniques and numbers for estimating system's performance from first-principles
 - [gpu004/6666](https://github.com/gpu004/6666) ([v0.3.0](https://github.com/gpu004/6666/releases/tag/v0.3.0), 4 months ago) - database, built by taking inspiration of tigerbeetle
@@ -33,6 +34,8 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 #### 🔨 My recent Pull Requests
 
+- [chore(deps): clear all npm audit findings, including 2 critical](https://github.com/gpu004/turbo/pull/14) on [gpu004/turbo](https://github.com/gpu004/turbo) (today)
+- [refactor: replace zod with Effect so the broker runs against an in-memory store](https://github.com/gpu004/turbo/pull/13) on [gpu004/turbo](https://github.com/gpu004/turbo) (today)
 - [refactor: make agent mistakes fail CI or the model checker, not code review](https://github.com/gpu004/turbo/pull/12) on [gpu004/turbo](https://github.com/gpu004/turbo) (today)
 - [fix(go): show why hegel.Test failed when the run errors](https://github.com/hegeldev/hegel/pull/117) on [hegeldev/hegel](https://github.com/hegeldev/hegel) (today)
 - [fix(napkin): Satisfy Rust 1.100 clippy so CI passes again](https://github.com/gpu004/napkin-math-gpu/pull/44) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (today)
@@ -44,5 +47,3 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 - [feat(bench): Launch NCCL Tests across two Modal machines over RDMA](https://github.com/gpu004/napkin-math-gpu/pull/43) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (2 weeks ago)
 - [refactor(crates): Remove comments and encode what they explained in code](https://github.com/gpu004/napkin-math-gpu/pull/42) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (2 weeks ago)
 - [test(napkin): Check arithmetic identities with Hegel](https://github.com/gpu004/napkin-math-gpu/pull/41) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (2 weeks ago)
-- [feat(price): Add AWS, GCP, and Azure records with commitment terms](https://github.com/gpu004/napkin-math-gpu/pull/40) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (2 weeks ago)
-- [chore(skills): Vendor pstack no-comments skill](https://github.com/gpu004/napkin-math-gpu/pull/39) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (2 weeks ago)
