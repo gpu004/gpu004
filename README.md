@@ -33,6 +33,9 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: make agent mistakes fail CI or the model checker, not code review](https://github.com/gpu004/turbo/pull/12) on [gpu004/turbo](https://github.com/gpu004/turbo) (today)
+- [fix(go): show why hegel.Test failed when the run errors](https://github.com/hegeldev/hegel/pull/117) on [hegeldev/hegel](https://github.com/hegeldev/hegel) (today)
+- [fix(napkin): Satisfy Rust 1.100 clippy so CI passes again](https://github.com/gpu004/napkin-math-gpu/pull/44) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (today)
 - [Enroll projects/napkin-math-gpu](https://github.com/theorem-labs/oss-verify/pull/272) on [theorem-labs/oss-verify](https://github.com/theorem-labs/oss-verify) (1 day ago)
 - [Unify cleanup attestations and publish the seven-workload pilot](https://github.com/gpu004/benchpress/pull/6) on [gpu004/benchpress](https://github.com/gpu004/benchpress) (1 week ago)
 - [Keep verify-benchpress map honest for cleanup/reconcile](https://github.com/gpu004/benchpress/pull/5) on [gpu004/benchpress](https://github.com/gpu004/benchpress) (1 week ago)
@@ -43,8 +46,3 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 - [test(napkin): Check arithmetic identities with Hegel](https://github.com/gpu004/napkin-math-gpu/pull/41) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (2 weeks ago)
 - [feat(price): Add AWS, GCP, and Azure records with commitment terms](https://github.com/gpu004/napkin-math-gpu/pull/40) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (2 weeks ago)
 - [chore(skills): Vendor pstack no-comments skill](https://github.com/gpu004/napkin-math-gpu/pull/39) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (2 weeks ago)
-- [feat(profiles): Add a datasheet RDMA link between machines for H100](https://github.com/gpu004/napkin-math-gpu/pull/38) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (2 weeks ago)
-- [feat(table): Memorization table, cost per TB, and spread between machines](https://github.com/gpu004/napkin-math-gpu/pull/37) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (2 weeks ago)
-- [feat(table): Define copy latency by Simon's rule and generate break-even sizes](https://github.com/gpu004/napkin-math-gpu/pull/36) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (2 weeks ago)
-- [docs(readme): Derive cold start from storage before PCIe](https://github.com/gpu004/napkin-math-gpu/pull/35) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (2 weeks ago)
-- [fix(bench): Allocate the H2D latency destination outside the timed loop](https://github.com/gpu004/napkin-math-gpu/pull/34) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (2 weeks ago)
