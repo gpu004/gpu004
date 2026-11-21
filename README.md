@@ -23,23 +23,23 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 #### 🔭 Latest releases I've contributed to
 
-- [hegeldev/hegel](https://github.com/hegeldev/hegel) ([frontends/go/v0.10.1](https://github.com/hegeldev/hegel/releases/tag/frontends/go/v0.10.1), today) - 
+- [hegeldev/hegel](https://github.com/hegeldev/hegel) ([frontends/go/v0.10.2](https://github.com/hegeldev/hegel/releases/tag/frontends/go/v0.10.2), 1 day ago) - 
 - [gpu004/turbo](https://github.com/gpu004/turbo) ([v0.1.0](https://github.com/gpu004/turbo/releases/tag/v0.1.0), 1 month ago) - creating queue service on top of r2, inspired by the turbopuffer queue service new implementation
 - [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) ([v0.4.0](https://github.com/gpu004/napkin-math-gpu/releases/tag/v0.4.0), 1 month ago) - Techniques and numbers for estimating system's performance from first-principles
 - [gpu004/6666](https://github.com/gpu004/6666) ([v0.3.0](https://github.com/gpu004/6666/releases/tag/v0.3.0), 4 months ago) - database, built by taking inspiration of tigerbeetle
 - [gpu004/automatic-disco](https://github.com/gpu004/automatic-disco) ([v0.1.1](https://github.com/gpu004/automatic-disco/releases/tag/v0.1.1), 5 months ago) - another interpreter in go
 - [gpu004/config](https://github.com/gpu004/config) ([v0.1.4](https://github.com/gpu004/config/releases/tag/v0.1.4), 5 months ago) - My configuration files and tools
-- [gpu004/gpu004](https://github.com/gpu004/gpu004) ([v0.1.2](https://github.com/gpu004/gpu004/releases/tag/v0.1.2), 5 months ago) - 
-- [gpu004/rope-man](https://github.com/gpu004/rope-man) ([v0.1.6](https://github.com/gpu004/rope-man/releases/tag/v0.1.6), 5 months ago) - i tried to build the Armin Ronacher (@mitsuhko) ropeman game in terminal using opentui, just an attempt
+- [gpu004/gpu004](https://github.com/gpu004/gpu004) ([v0.1.2](https://github.com/gpu004/gpu004/releases/tag/v0.1.2), 6 months ago) - 
+- [gpu004/rope-man](https://github.com/gpu004/rope-man) ([v0.1.6](https://github.com/gpu004/rope-man/releases/tag/v0.1.6), 6 months ago) - i tried to build the Armin Ronacher (@mitsuhko) ropeman game in terminal using opentui, just an attempt
 
 #### 🔨 My recent Pull Requests
 
-- [chore(deps): clear all npm audit findings, including 2 critical](https://github.com/gpu004/turbo/pull/14) on [gpu004/turbo](https://github.com/gpu004/turbo) (today)
-- [refactor: replace zod with Effect so the broker runs against an in-memory store](https://github.com/gpu004/turbo/pull/13) on [gpu004/turbo](https://github.com/gpu004/turbo) (today)
-- [refactor: make agent mistakes fail CI or the model checker, not code review](https://github.com/gpu004/turbo/pull/12) on [gpu004/turbo](https://github.com/gpu004/turbo) (today)
-- [fix(go): show why hegel.Test failed when the run errors](https://github.com/hegeldev/hegel/pull/117) on [hegeldev/hegel](https://github.com/hegeldev/hegel) (today)
-- [fix(napkin): Satisfy Rust 1.100 clippy so CI passes again](https://github.com/gpu004/napkin-math-gpu/pull/44) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (today)
-- [Enroll projects/napkin-math-gpu](https://github.com/theorem-labs/oss-verify/pull/272) on [theorem-labs/oss-verify](https://github.com/theorem-labs/oss-verify) (1 day ago)
+- [chore(deps): clear all npm audit findings, including 2 critical](https://github.com/gpu004/turbo/pull/14) on [gpu004/turbo](https://github.com/gpu004/turbo) (1 day ago)
+- [refactor: replace zod with Effect so the broker runs against an in-memory store](https://github.com/gpu004/turbo/pull/13) on [gpu004/turbo](https://github.com/gpu004/turbo) (1 day ago)
+- [refactor: make agent mistakes fail CI or the model checker, not code review](https://github.com/gpu004/turbo/pull/12) on [gpu004/turbo](https://github.com/gpu004/turbo) (1 day ago)
+- [fix(go): show why hegel.Test failed when the run errors](https://github.com/hegeldev/hegel/pull/117) on [hegeldev/hegel](https://github.com/hegeldev/hegel) (1 day ago)
+- [fix(napkin): Satisfy Rust 1.100 clippy so CI passes again](https://github.com/gpu004/napkin-math-gpu/pull/44) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (1 day ago)
+- [Enroll projects/napkin-math-gpu](https://github.com/theorem-labs/oss-verify/pull/272) on [theorem-labs/oss-verify](https://github.com/theorem-labs/oss-verify) (2 days ago)
 - [Unify cleanup attestations and publish the seven-workload pilot](https://github.com/gpu004/benchpress/pull/6) on [gpu004/benchpress](https://github.com/gpu004/benchpress) (1 week ago)
 - [Keep verify-benchpress map honest for cleanup/reconcile](https://github.com/gpu004/benchpress/pull/5) on [gpu004/benchpress](https://github.com/gpu004/benchpress) (1 week ago)
 - [Journal allocation intent and recover interrupted experiments](https://github.com/gpu004/benchpress/pull/4) on [gpu004/benchpress](https://github.com/gpu004/benchpress) (1 week ago)
