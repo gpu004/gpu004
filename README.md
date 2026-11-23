@@ -23,7 +23,7 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 #### 🔭 Latest releases I've contributed to
 
-- [hegeldev/hegel](https://github.com/hegeldev/hegel) ([frontends/go/v0.10.2](https://github.com/hegeldev/hegel/releases/tag/frontends/go/v0.10.2), 2 days ago) - 
+- [hegeldev/hegel](https://github.com/hegeldev/hegel) ([frontends/go/v0.10.2](https://github.com/hegeldev/hegel/releases/tag/frontends/go/v0.10.2), 3 days ago) - 
 - [gpu004/turbo](https://github.com/gpu004/turbo) ([v0.1.0](https://github.com/gpu004/turbo/releases/tag/v0.1.0), 1 month ago) - creating queue service on top of r2, inspired by the turbopuffer queue service new implementation
 - [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) ([v0.4.0](https://github.com/gpu004/napkin-math-gpu/releases/tag/v0.4.0), 1 month ago) - Techniques and numbers for estimating system's performance from first-principles
 - [gpu004/6666](https://github.com/gpu004/6666) ([v0.3.0](https://github.com/gpu004/6666/releases/tag/v0.3.0), 4 months ago) - database, built by taking inspiration of tigerbeetle
@@ -34,16 +34,14 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 #### 🔨 My recent Pull Requests
 
-- [chore(deps): clear all npm audit findings, including 2 critical](https://github.com/gpu004/turbo/pull/14) on [gpu004/turbo](https://github.com/gpu004/turbo) (2 days ago)
-- [refactor: replace zod with Effect so the broker runs against an in-memory store](https://github.com/gpu004/turbo/pull/13) on [gpu004/turbo](https://github.com/gpu004/turbo) (2 days ago)
-- [refactor: make agent mistakes fail CI or the model checker, not code review](https://github.com/gpu004/turbo/pull/12) on [gpu004/turbo](https://github.com/gpu004/turbo) (2 days ago)
-- [fix(go): show why hegel.Test failed when the run errors](https://github.com/hegeldev/hegel/pull/117) on [hegeldev/hegel](https://github.com/hegeldev/hegel) (2 days ago)
-- [fix(napkin): Satisfy Rust 1.100 clippy so CI passes again](https://github.com/gpu004/napkin-math-gpu/pull/44) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (2 days ago)
-- [Enroll projects/napkin-math-gpu](https://github.com/theorem-labs/oss-verify/pull/272) on [theorem-labs/oss-verify](https://github.com/theorem-labs/oss-verify) (3 days ago)
+- [chore(lint): clear code comments into ADRs and enforce a ratcheted no-comments rule](https://github.com/gpu004/turbo/pull/17) on [gpu004/turbo](https://github.com/gpu004/turbo) (1 day ago)
+- [chore(deps): clear all npm audit findings, including 2 critical](https://github.com/gpu004/turbo/pull/14) on [gpu004/turbo](https://github.com/gpu004/turbo) (3 days ago)
+- [refactor: replace zod with Effect so the broker runs against an in-memory store](https://github.com/gpu004/turbo/pull/13) on [gpu004/turbo](https://github.com/gpu004/turbo) (3 days ago)
+- [refactor: make agent mistakes fail CI or the model checker, not code review](https://github.com/gpu004/turbo/pull/12) on [gpu004/turbo](https://github.com/gpu004/turbo) (3 days ago)
+- [fix(go): show why hegel.Test failed when the run errors](https://github.com/hegeldev/hegel/pull/117) on [hegeldev/hegel](https://github.com/hegeldev/hegel) (3 days ago)
+- [fix(napkin): Satisfy Rust 1.100 clippy so CI passes again](https://github.com/gpu004/napkin-math-gpu/pull/44) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (3 days ago)
+- [Enroll projects/napkin-math-gpu](https://github.com/theorem-labs/oss-verify/pull/272) on [theorem-labs/oss-verify](https://github.com/theorem-labs/oss-verify) (4 days ago)
 - [Unify cleanup attestations and publish the seven-workload pilot](https://github.com/gpu004/benchpress/pull/6) on [gpu004/benchpress](https://github.com/gpu004/benchpress) (1 week ago)
 - [Keep verify-benchpress map honest for cleanup/reconcile](https://github.com/gpu004/benchpress/pull/5) on [gpu004/benchpress](https://github.com/gpu004/benchpress) (1 week ago)
 - [Journal allocation intent and recover interrupted experiments](https://github.com/gpu004/benchpress/pull/4) on [gpu004/benchpress](https://github.com/gpu004/benchpress) (1 week ago)
 - [Block experiment restarts until saved cleanup warnings are resolved](https://github.com/gpu004/benchpress/pull/3) on [gpu004/benchpress](https://github.com/gpu004/benchpress) (1 week ago)
-- [feat(bench): Launch NCCL Tests across two Modal machines over RDMA](https://github.com/gpu004/napkin-math-gpu/pull/43) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (2 weeks ago)
-- [refactor(crates): Remove comments and encode what they explained in code](https://github.com/gpu004/napkin-math-gpu/pull/42) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (2 weeks ago)
-- [test(napkin): Check arithmetic identities with Hegel](https://github.com/gpu004/napkin-math-gpu/pull/41) on [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) (2 weeks ago)
