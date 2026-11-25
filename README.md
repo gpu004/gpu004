@@ -23,8 +23,8 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 #### 🔭 Latest releases I've contributed to
 
+- [hegeldev/hegel](https://github.com/hegeldev/hegel) ([frontends/csharp/0.4.3](https://github.com/hegeldev/hegel/releases/tag/frontends/csharp/0.4.3), today) - 
 - [gpu004/turbo](https://github.com/gpu004/turbo) ([v0.2.0](https://github.com/gpu004/turbo/releases/tag/v0.2.0), today) - creating queue service on top of r2, inspired by the turbopuffer queue service new implementation
-- [hegeldev/hegel](https://github.com/hegeldev/hegel) ([frontends/go/v0.10.3](https://github.com/hegeldev/hegel/releases/tag/frontends/go/v0.10.3), 1 day ago) - 
 - [gpu004/napkin-math-gpu](https://github.com/gpu004/napkin-math-gpu) ([v0.4.0](https://github.com/gpu004/napkin-math-gpu/releases/tag/v0.4.0), 1 month ago) - Techniques and numbers for estimating system's performance from first-principles
 - [gpu004/6666](https://github.com/gpu004/6666) ([v0.3.0](https://github.com/gpu004/6666/releases/tag/v0.3.0), 4 months ago) - database, built by taking inspiration of tigerbeetle
 - [gpu004/automatic-disco](https://github.com/gpu004/automatic-disco) ([v0.1.1](https://github.com/gpu004/automatic-disco/releases/tag/v0.1.1), 6 months ago) - another interpreter in go
