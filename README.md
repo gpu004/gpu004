@@ -44,4 +44,3 @@ Checkout my [Twitter](https://x.com/gpu004), [YouTube](https://www.youtube.com/@
 - [Unify cleanup attestations and publish the seven-workload pilot](https://github.com/gpu004/benchpress/pull/6) on [gpu004/benchpress](https://github.com/gpu004/benchpress) (2 weeks ago)
 - [Keep verify-benchpress map honest for cleanup/reconcile](https://github.com/gpu004/benchpress/pull/5) on [gpu004/benchpress](https://github.com/gpu004/benchpress) (2 weeks ago)
 - [Journal allocation intent and recover interrupted experiments](https://github.com/gpu004/benchpress/pull/4) on [gpu004/benchpress](https://github.com/gpu004/benchpress) (2 weeks ago)
-- [Block experiment restarts until saved cleanup warnings are resolved](https://github.com/gpu004/benchpress/pull/3) on [gpu004/benchpress](https://github.com/gpu004/benchpress) (2 weeks ago)
