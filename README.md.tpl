@@ -1,6 +1,6 @@
-Creator of [openchaos](https://github.com/gpu004/openchaos). Creator of ropeman. Popular on [Twitter](https://x.com/tusharhq)
+Creator of [openchaos](https://github.com/gpu004/openchaos). Creator of ropeman. Popular on [Twitter](https://x.com/gpu004)
 
-Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com/@bobo5), or [my site I guess](https://tushar-6666.vercel.app/)
+Checkout my [Twitter](https://x.com/gpu004), [YouTube](https://www.youtube.com/@bobo5), or [my site I guess](https://dahiya.pages.dev/)
 
 ## Current Projects
 
